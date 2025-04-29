@@ -160,6 +160,8 @@ while number > 0:
     fruits=["apples","banana","cherry"]
     for fruit in fruits:
         print(fruit)
+        for i in range(4,10):
+            print(i)
 
 
 
